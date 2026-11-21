@@ -1,7 +1,7 @@
 # RendezDent
 ![Architecture ClientPulse](docs/architecture.drawio.png)
 
-Dentique is a multi-tenant B2B SaaS platform built for dental clinics to synchronize patient records, automate hygiene recall workflows, and maximize patient retention.
+RendezDent is a multi-tenant B2B SaaS platform built for dental clinics to synchronize patient records, automate hygiene recall workflows, and maximize patient retention.
 
 ## Tech Stack
 
