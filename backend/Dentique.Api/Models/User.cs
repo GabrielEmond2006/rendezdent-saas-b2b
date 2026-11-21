@@ -1,4 +1,4 @@
-namespace Dentique.Models;
+namespace RendezDent.Models;
 
     public class User
     {
